@@ -1,0 +1,153 @@
+[
+     {
+          "id": "sibamira",
+          "namaPanjang": "Sistem Inventarisasi Barang Milik Negara",
+          "imgUrl": "sibamira.png",
+          "miniDes": "Sistem untuk pencatatan aset milik negara di Universitas Jambi",
+          "colorText": "text-white",
+          "color1": "bg-gray-800",
+          "color2": "#1971ff",
+          "namaPendek": "SIBAMIRA",
+          "latarBelakang": "Setiap barang milik negara (BMN) harus dicatat dan dilaporkan dengan baik dan benar sesuai dengan aturan yang berlaku. Universitas Jambi sebagai salah satu penyelenggara pendidikan tinggi dibawah Kemendikbudristek diwajibkan melakukan inventarisasi BMN setidaknya satu kali dalam lima tahun. Proses inventarisasi BMN di seluruh unit kerja di lingkungan Universitas Jambi masih dilakukan dengan cara manual sehingga tidak efektif dan tidak optimal dalam mengelola data inventaris.",
+          "jenis": "Aplikasi berbasis Website",
+          "rilis": "30 Juli 2023",
+          "teknologi": ["PHP", "Codeigniter", "Bootstrap", "Mysql", "JQuery"],
+          "pemilik": "Universitas Jambi",
+          "link": "http://sibamira.unja.ac.id/",
+          "fitur": [
+               {
+                    "nama": "Import Data",
+                    "desc": "memasukan data barang dari excel ke dalam database"
+               },
+               {
+                    "nama": "Statistik",
+                    "desc": "Statistik barang dari berbagai kondisi"
+               },
+               {
+                    "nama": "Labelisasi",
+                    "desc": "Memberikan label kepada barang"
+               },
+               {
+                    "nama": "Preview Data",
+                    "desc": "Melihat data hasil rekapitulasi"
+               },
+               {
+                    "nama": "Cetak",
+                    "desc": "Mencetak hasil rekapitulasi dan report dari inventarisasi barang ke dalam bentuk excel"
+               },
+               {
+                    "nama": "Kertas Kerja",
+                    "desc": "Mencatat hasil pemeriksaan barang secara digital"
+               },
+               {
+                    "nama": "Searching",
+                    "desc": "Mencari Barang"
+               },
+               {
+                    "nama": "Dark Mode",
+                    "desc": "Mode gelap dan terang"
+               }
+          ]
+     },
+
+     {
+          "id": "siphp",
+          "namaPanjang": "Sistem Informasi Pelaporan Harian Pegawai",
+          "imgUrl": "siphp.png",
+          "miniDes": "Sistem untuk monitoring kegiatan harian pegawai di Badan Pusat Statistik Provinsi Jambi",
+          "colorText": "text-black",
+          "color1": "bg-blue-50",
+          "color2": "#0d7eff",
+          "namaPendek": "SiPHP",
+          "latarBelakang": "Sistem informasi ini merupakan sistem informasi pelaporan harian pegawai berbasis website yang memiliki fungsi untuk dapat melakukan pencatatan kegiatan harian pegawai BPS Provinsi Jambi dimana dalam setiap laporan diwajibkan menyertakan bukti dukung dalam bentuk file word, power point, foto, excel dan berbagai format dokumen lain.",
+          "jenis": "Aplikasi Website",
+          "rilis": "2 Agustus 2022",
+          "teknologi": ["PHP", "Codeigniter", "Bootstrap", "Mysql", "JQuery"],
+          "pemilik": "Badan Pusat Statistik Provinsi Jambi",
+          "link": "https://bpsjambi.id/siphp",
+          "fitur": [
+               {
+                    "nama": "Tambah Kegiatan",
+                    "desc": "Menambahkan kegiatan beserta Jenis kegiatan, jam kegiatan hingga bukti pendukung"
+               },
+               {
+                    "nama": "Kalender",
+                    "desc": "Dalam kalender dapat menambahkan kegiatan pada hingga catatan hari ini hingga hari-hari sebelumnya"
+               },
+               {
+                    "nama": "Rekap",
+                    "desc": "Statistik kegiatan para pegawai"
+               },
+               {
+                    "nama": "Cetak",
+                    "desc": "Mencetak kegiatan dalam rentang waktu tertentu ke dalam bentuk excel"
+               },
+               {
+                    "nama": "Cuti",
+                    "desc": "Mengisi data untuk cuti kerja"
+               },
+               {
+                    "nama": "Catatan",
+                    "desc": "Menambahkan catatan pada hari tertentu di kalender"
+               },
+               {
+                    "nama": "Searching",
+                    "desc": "Mencari Kegiatan"
+               },
+               {
+                    "nama": "Sasaran Kegiatan",
+                    "desc": "Menambahkan sasaran kegiatan tahunan pegawai"
+               }
+          ]
+     },
+     {
+          "id": "sipbetul",
+          "namaPanjang": "Sistem Pengelolaan Berita dan Tulisan",
+          "imgUrl": "sipbetul.png",
+          "miniDes": "Sistem untuk pengumpulan dan review berita di Badan Pusat Statistik Provinsi Jambi",
+          "colorText": "text-black",
+          "color1": "bg-blue-300",
+          "color2": "#ffff",
+          "namaPendek": "SIPBetul",
+          "latarBelakang": "BPS Provinsi Jambi menjalin kerja sama laman berita. Dengan demikian BPS Provinsi Jambi dapat memperluas cakupan penyebaran berita-berita seputar perkembangan statistik di berbagai sektor yang ada di Provinsi Jambi. Tulisan berita yang dipublikasikan pada laman berita tersebut ditulis langsung oleh para pegawai yang ada di BPS se-Provinsi Jambi di aplikasi ini dengan mencakup seluruh pegawai yang ada di BPS kabupaten maupun kota. Sebelum dipublikasikan, tulisan berita tersebut harus melalui tahapan review, di mana tulisan berita akan ditinjau oleh reviewer yang berasal dari BPS Provinsi Jambi itu sendiri.",
+          "jenis": "Aplikasi berbasis Website",
+          "rilis": "2 Agustus 2022",
+          "teknologi": ["PHP", "Codeigniter", "Bootstrap", "Mysql", "JQuery"],
+          "pemilik": "Badan Pusat Statistik Provinsi Jambi",
+          "link": "",
+          "fitur": [
+               {
+                    "nama": "Statistik Pengguna",
+                    "desc": "Menampilkan statistik pengguna dalam pengelolaan berita dan tulisan"
+               },
+               {
+                    "nama": "Teks Editor",
+                    "desc": "Teks editor memiliki tools yang lengkap untuk menuliskan isi berita"
+               },
+               {
+                    "nama": "Draft Berita",
+                    "desc": "Menyimpan berita yang belum siap untuk dipublis sehingga penulisan berita dapat dilajutkan di lain waktu"
+               },
+               {
+                    "nama": "Search",
+                    "desc": "Mencari tulisan berita"
+               },
+               {
+                    "nama": "Komentar",
+                    "desc": "Tulisan berita dapat diberi komentar oleh reviewer dan publisher"
+               },
+               {
+                    "nama": "Review/tinjau",
+                    "desc": "Meninjau konten berita"
+               },
+               {
+                    "nama": "Konversi",
+                    "desc": "Berita dapat dikonversikan ke dalam bentuk docx"
+               },
+               {
+                    "nama": "Preview Foto",
+                    "desc": "Setiap foto berita dapat di preview"
+               }
+          ]
+     }
+]
