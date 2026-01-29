@@ -37,7 +37,7 @@
                                    data-aos="fade-up"
                                    data-aos-delay="100"
                                    class="h-32 w-h-32 rounded-full"
-                                   src="https://static.vecteezy.com/system/resources/previews/009/734/564/non_2x/default-avatar-profile-icon-of-social-media-user-vector.jpg"
+                                   src="../../public/adryan.jpeg"
                                    alt=""
                               />
                               <div class="flex flex-col">
@@ -46,7 +46,7 @@
                                    <div class="mt-3" data-aos="fade-up" data-aos-delay="300">
                                         <a v-cursor-ix target="_blank" cursor-ix="true" class="px-3 py-2.5" href="https://www.instagram.com/_adryans"><i class="bi bi-instagram"></i></a>
                                         <a v-cursor-ix target="_blank" cursor-ix="true" class="px-3 py-2.5 ml-4" href="https://github.com/Adryanssyah"><i class="bi bi-github"></i></a>
-                                        <a v-cursor-ix target="_blank" cursor-ix="true" class="px-3 py-2.5 ml-4" href="https://www.linkedin.com/in/muhammad-adryan-9322281a8/"><i class="bi bi-linkedin"></i></a>
+                                        <a v-cursor-ix target="_blank" cursor-ix="true" class="px-3 py-2.5 ml-4" href="https://www.linkedin.com/in/adryansyah24/"><i class="bi bi-linkedin"></i></a>
                                    </div>
                               </div>
                          </div>
